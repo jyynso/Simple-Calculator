@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecwt2\\source\\repos\\simple_calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB3C143-0A4F-403E-B112-40EC6CAEDC61}|simple_calc\\simple_calc.vbproj|c:\\users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9BB3C143-0A4F-403E-B112-40EC6CAEDC61}|simple_calc\\simple_calc.vbproj|solutionrelative:simple_calc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB3C143-0A4F-403E-B112-40EC6CAEDC61}|simple_calc\\simple_calc.vbproj|c:\\users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9BB3C143-0A4F-403E-B112-40EC6CAEDC61}|simple_calc\\simple_calc.vbproj|solutionrelative:simple_calc\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\Form1.vb",
+              "RelativeDocumentMoniker": "simple_calc\\Form1.vb",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\Form1.vb*",
+              "RelativeToolTip": "simple_calc\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-01T08:39:26.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\Form1.vb",
+              "RelativeDocumentMoniker": "simple_calc\\Form1.vb",
+              "ToolTip": "C:\\Users\\ecwt2\\source\\repos\\simple_calc\\simple_calc\\Form1.vb [Design]*",
+              "RelativeToolTip": "simple_calc\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-01T08:38:23.892Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

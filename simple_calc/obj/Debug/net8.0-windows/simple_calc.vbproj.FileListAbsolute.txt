@@ -1,0 +1,17 @@
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\bin\Debug\net8.0-windows\simple_calc.exe
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\bin\Debug\net8.0-windows\simple_calc.deps.json
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\bin\Debug\net8.0-windows\simple_calc.runtimeconfig.json
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\bin\Debug\net8.0-windows\simple_calc.dll
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\bin\Debug\net8.0-windows\simple_calc.pdb
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.vbproj.GenerateResource.cache
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.AssemblyInfoInputs.cache
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.AssemblyInfo.vb
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.vbproj.CoreCompileInputs.cache
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.dll
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\refint\simple_calc.dll
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.pdb
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.genruntimeconfig.cache
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\ref\simple_calc.dll
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.Calculator.resources
+C:\Users\ecwt2\source\repos\simple_calc\simple_calc\obj\Debug\net8.0-windows\simple_calc.sourcelink.json
